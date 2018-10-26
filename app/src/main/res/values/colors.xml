@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_theme_color">#37C7FE</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFF</color>
+    <color name="warning">#FFD300</color>
+
+    <color name="default_message_color_rcv">#f6f4f4</color>
+    <color name="default_message_color_send">#131212</color>
+    <color name="default_tstamp_color_send">#131212</color>
+    <color name="default_bubble_color_send">#fcf8ba</color>
+    <color name="default_bubble_color_rcv">#98dd6c</color>
+    <color name="default_tstamp_color_rcv">#98dd6c</color>
+</resources>
